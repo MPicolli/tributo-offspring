@@ -1,6 +1,6 @@
 # 🎸 Tributo: The Offspring
 
-Este projeto é uma página de tributo dedicada à banda The Offspring. Ele foi desenvolvido como parte de um desafio prático do curso **[NOME DO SEU CURSO]**.
+Este projeto é uma página de tributo dedicada à banda The Offspring. Ele foi desenvolvido como parte de um desafio prático do curso **Formação Front-end - HTML, CSS, JavaScript, React e +**.
 
 ## 🚀 O que eu aprendi/pratiquei:
 - **HTML5:** Estruturação semântica (uso de header, section, footer).
@@ -15,4 +15,4 @@ Este projeto é uma página de tributo dedicada à banda The Offspring. Ele foi 
 Este projeto foi realizado seguindo as instruções do professor, com o objetivo de consolidar os fundamentos básicos do desenvolvimento Web.
 
 ---
-Desenvolvido por [Seu Nome] durante meus estudos de Front-end.
+Desenvolvido por Matheus Picolli Ishibashi durante meus estudos de Front-end.
